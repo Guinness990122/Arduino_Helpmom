@@ -3,6 +3,7 @@
 ## Intro
  - IOT를 기반으로 임산부 배려석 이용에 도움을 주는 앱서비스입니다.
  - It helps pregnant women to use priority seat.
+![img](./helpmom.png)
 
 **기획배경 :** 
 1. 임산부들의 임산부 배려석 이용 어려움
