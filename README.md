@@ -20,7 +20,7 @@
 
 ## Developer
 
-- Guinness
+- Summer
 - TaeBbong
 
 ## Tech Stack
